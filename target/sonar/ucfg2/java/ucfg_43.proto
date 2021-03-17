@@ -1,0 +1,16 @@
+
+?com.infosys.order.dto.ProductsDTO#getStock()Ljava/lang/Integer;]
+SC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/dto/ProductsDTO.javaG G("1*”
+1]
+SC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/dto/ProductsDTO.javaH	 H(³
+°
+]
+SC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/dto/ProductsDTO.javaH	 H(
+%0java.lang.Integer"__id*0*.#
+!com.infosys.order.dto.ProductsDTO"
+stock"z
+]
+SC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/dto/ProductsDTO.javaH H(
+
+%0java.lang.IntegerB%#
+!com.infosys.order.dto.ProductsDTO
