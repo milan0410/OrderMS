@@ -1,18 +1,18 @@
 
 Jcom.infosys.order.dto.OrderDetailsDTO#getProductsOrdered()Ljava/util/List;a
-WC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/dto/OrderDetailsDTO.javaL" L(4"1*¨
+WC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/dto/OrderDetailsDTO.javaL" L(4"1*ï¿½
 1a
 WC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/dto/OrderDetailsDTO.javaM
- M(Â
-¿
+ M(ï¿½
+ï¿½
 a
 WC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/dto/OrderDetailsDTO.javaM
  M(
 %0java.util.List"__id*>*<'
-%com.infosys.order.dto.OrderDetailsDTO"
+%com.myproject.order.dto.OrderDetailsDTO"
 productsOrdered"{
 a
 WC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/dto/OrderDetailsDTO.javaM M(
 
 %0java.util.ListB)'
-%com.infosys.order.dto.OrderDetailsDTO
+%com.myproject.order.dto.OrderDetailsDTO

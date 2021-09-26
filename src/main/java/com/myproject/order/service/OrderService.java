@@ -1,4 +1,4 @@
-package com.infosys.order.service;
+package com.myproject.order.service;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -11,13 +11,13 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.PathVariable;
 
-import com.infosys.order.dto.OrderDetailsDTO;
-import com.infosys.order.dto.ProductsOrderedDTO;
-import com.infosys.order.entity.CompositePK;
-import com.infosys.order.entity.OrderDetails;
-import com.infosys.order.entity.ProductsOrdered;
-import com.infosys.order.repository.OrderDetailsRepository;
-import com.infosys.order.repository.ProductsOrderedRepository;
+import com.myproject.order.dto.OrderDetailsDTO;
+import com.myproject.order.dto.ProductsOrderedDTO;
+import com.myproject.order.entity.CompositePK;
+import com.myproject.order.entity.OrderDetails;
+import com.myproject.order.entity.ProductsOrdered;
+import com.myproject.order.repository.OrderDetailsRepository;
+import com.myproject.order.repository.ProductsOrderedRepository;
 
 
 @Service

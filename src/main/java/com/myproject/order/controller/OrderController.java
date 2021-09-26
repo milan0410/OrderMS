@@ -1,4 +1,4 @@
-package com.infosys.order.controller;
+package com.myproject.order.controller;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -20,10 +20,10 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 import org.springframework.web.server.ResponseStatusException;
 
-import com.infosys.order.dto.OrderDetailsDTO;
-import com.infosys.order.dto.ProductsDTO;
-import com.infosys.order.dto.ProductsOrderedDTO;
-import com.infosys.order.service.OrderService;
+import com.myproject.order.dto.OrderDetailsDTO;
+import com.myproject.order.dto.ProductsDTO;
+import com.myproject.order.dto.ProductsOrderedDTO;
+import com.myproject.order.service.OrderService;
 
 
 @RestController

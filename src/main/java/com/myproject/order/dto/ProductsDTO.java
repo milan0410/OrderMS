@@ -1,4 +1,4 @@
-package com.infosys.order.dto;
+package com.myproject.order.dto;
 
 public class ProductsDTO {
 	Integer prodId;

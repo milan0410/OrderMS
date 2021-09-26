@@ -1,4 +1,4 @@
-package com.infosys.order.entity;
+package com.myproject.order.entity;
 
 import java.io.Serializable;
 

@@ -1,16 +1,16 @@
 
-?com.infosys.order.entity.OrderDetails#getDate()Ljava/util/Date;a
-WC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/entity/OrderDetails.java: :("1*ù
+?com.myproject.order.entity.OrderDetails#getDate()Ljava/util/Date;a
+WC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/entity/OrderDetails.java: :("1*ÔøΩ
 1a
-WC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/entity/OrderDetails.java;	 ;(∑
-¥
+WC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/entity/OrderDetails.java;	 ;(ÔøΩ
+ÔøΩ
 a
 WC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/entity/OrderDetails.java;	 ;(
 %0java.util.Date"__id*3*1'
-%com.infosys.order.entity.OrderDetails"
+%com.myproject.order.entity.OrderDetails"
 date"{
 a
 WC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/entity/OrderDetails.java; ;(
 
 %0java.util.DateB)'
-%com.infosys.order.entity.OrderDetails
+%com.myproject.order.entity.OrderDetails

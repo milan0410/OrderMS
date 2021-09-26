@@ -1,7 +1,7 @@
-package com.infosys.order.dto;
+package com.myproject.order.dto;
 
 
-import com.infosys.order.entity.ProductsOrdered;
+import com.myproject.order.entity.ProductsOrdered;
 
 public class ProductsOrderedDTO {
 	

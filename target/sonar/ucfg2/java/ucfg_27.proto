@@ -1,16 +1,16 @@
 
->com.infosys.order.dto.ProductsDTO#getBrand()Ljava/lang/String;]
-SC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/dto/ProductsDTO.java ("1*’
+>com.myproject.order.dto.ProductsDTO#getBrand()Ljava/lang/String;]
+SC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/dto/ProductsDTO.java ("1*ï¿½
 1]
-SC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/dto/ProductsDTO.java	 (²
-¯
+SC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/dto/ProductsDTO.java	 (ï¿½
+ï¿½
 ]
 SC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/dto/ProductsDTO.java	 (
 %0java.lang.String"__id*0*.#
-!com.infosys.order.dto.ProductsDTO"
+!com.myproject.order.dto.ProductsDTO"
 brand"y
 ]
 SC:/Users/Milan Vishnoi/OrderMS/src/main/java/com/infosys/order/dto/ProductsDTO.java (
 
 %0java.lang.StringB%#
-!com.infosys.order.dto.ProductsDTO
+!com.myproject.order.dto.ProductsDTO

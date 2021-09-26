@@ -1,4 +1,4 @@
-package com.infosys.order.entity;
+package com.myproject.order.entity;
 
 import java.util.Date;
 import javax.persistence.Column;

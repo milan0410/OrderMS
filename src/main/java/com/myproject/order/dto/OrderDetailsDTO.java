@@ -1,9 +1,9 @@
-package com.infosys.order.dto;
+package com.myproject.order.dto;
 
 import java.util.Date;
 import java.util.List;
 
-import com.infosys.order.entity.OrderDetails;
+import com.myproject.order.entity.OrderDetails;
 
 
 public class OrderDetailsDTO {
